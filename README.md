@@ -100,11 +100,11 @@ A personal finance and expense-related project centered around tracking and usab
 
 ## 📊 GitHub Snapshot
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=githubmofo&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubmofo&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=githubmofo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=githubmofo&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=githubmofo&theme=github-dark&hide_border=true" />
 </p>
-
 ---
 
 ## 🤝 Let’s Connect
