@@ -97,18 +97,17 @@ A personal finance and expense-related project centered around tracking and usab
 - 🛠️ Real-world student and side projects
 
 ---
-
 ## 📊 GitHub Snapshot
 
-Live overview of my GitHub activity, coding consistency, and language usage — updated automatically as my profile grows.
+Live overview of my GitHub activity, contribution trends, and language usage — updated automatically as my profile grows.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=githubmofo&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=githubmofo&theme=github-dark&hide_border=true" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=githubmofo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=githubmofo&theme=github_dark" />
 </p>
 ---
 
