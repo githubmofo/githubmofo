@@ -61,18 +61,6 @@ My work across web platforms, Android projects, machine learning applications, a
 
 ***
 
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning Projects | Advanced | Built ML-based projects focused on practical implementation, user-facing workflows, and real-world problem solving. |
-| AI Product Thinking | Advanced | Uses AI/ML as part of product development with emphasis on usability and application. |
-| NLP & Chatbot Systems | Intermediate to Advanced | Developed chatbot-oriented systems to understand user intent and generate relevant responses. |
-| Security-Oriented AI | Intermediate to Advanced | Applied machine learning concepts to phishing detection and safety-focused application ideas. |
-| Integration & Experimentation | Advanced | Continuously explores backend systems, scalable AI integration, and production-ready implementation patterns. |
-
-***
-
 ## Featured Projects
 
 <details>
