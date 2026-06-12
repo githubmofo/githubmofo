@@ -1,28 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:6a11cb&text=JENISH%20LAD&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:6a11cb&text=JENISH%20LAD&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Android%20Builder%20%7C%20AI%2FML%20Explorer&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=100&lines=Enterprise-Grade+Software+Engineering+Portfolio;Full-Stack+Developer+%7C+Android+Builder+%7C+AI%2FML+Explorer;Building+Scalable%2C+Practical%2C+Product-Focused+Applications" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-4F46E5?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Semester-7th-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-5B21B6?style=for-the-badge&logo=target&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20Gujarat%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Enterprise-Grade+Software+Engineering+Portfolio;Building+Scalable+and+Practical+Applications" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://jenish-lad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jenish-lad-2673a6378"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ladjenish2905@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Now-581C87?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/githubmofo"><img src="https://img.shields.io/badge/GitHub-View%20Profile-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-4F46E5?style=flat-square&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Semester-7th-7C3AED?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-5B21B6?style=flat-square&logo=target&logoColor=white" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=githubmofo&style=for-the-badge&color=7C3AED" />
-<img src="https://img.shields.io/github/followers/githubmofo?style=for-the-badge&color=4F46E5&labelColor=1f1f1f" />
-<img src="https://img.shields.io/github/stars/githubmofo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6D28D9&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20Gujarat%2C%20India-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
+
+<br/>
+
+<a href="https://jenish-lad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jenish-lad-2673a6378"><img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ladjenish2905@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-581C87?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/githubmofo"><img src="https://img.shields.io/badge/GitHub-Profile-1E1B4B?style=flat-square&logo=github&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=githubmofo&style=flat-square&color=7C3AED" />
+<img src="https://img.shields.io/github/followers/githubmofo?style=flat-square&color=4F46E5&labelColor=1f1f1f" />
+<img src="https://img.shields.io/github/stars/githubmofo?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=6D28D9&labelColor=1f1f1f" />
 
 </div>
 
@@ -30,11 +33,14 @@
 
 ## About
 
-Computer Engineering student with a strong focus on software engineering, full-stack development, Android application development, and AI/ML-driven product building. The profile is centered around creating practical, polished, and scalable applications that solve real problems while maintaining clean user experience and strong technical structure.
+Computer Engineering student with a strong focus on software engineering, full-stack development, Android application development, and AI/ML-driven product building. I enjoy creating practical, polished, and scalable applications that solve real-world problems with clean UI, useful features, and strong technical structure.
 
-The work across web platforms, Android projects, machine learning applications, and product-oriented builds reflects an engineering mindset shaped by implementation, iteration, and continuous learning. From finance and travel products to phishing detection and conversational AI, the portfolio demonstrates versatility across both software engineering and intelligent systems.
+My work across web platforms, Android projects, machine learning applications, and product-oriented builds reflects an implementation-first mindset shaped by continuous learning, iteration, and experimentation. From finance and travel products to phishing detection and conversational AI, my portfolio demonstrates versatility across both software engineering and intelligent systems.
 
-**Open to** software engineering internships, AI/ML engineering opportunities, full-stack development roles, collaborative product building, and impactful real-world project work.
+- Open to software engineering internships
+- Open to full-stack development opportunities
+- Open to AI/ML collaboration
+- Open to impactful product-focused project work
 
 ***
 
@@ -60,7 +66,7 @@ The work across web platforms, Android projects, machine learning applications, 
 | Domain | Proficiency | Details |
 |---|---|---|
 | Machine Learning Projects | Advanced | Built ML-based projects focused on practical implementation, user-facing workflows, and real-world problem solving. |
-| AI Product Thinking | Advanced | Uses AI/ML as part of product development rather than isolated experimentation, with emphasis on usability and application. |
+| AI Product Thinking | Advanced | Uses AI/ML as part of product development with emphasis on usability and application. |
 | NLP & Chatbot Systems | Intermediate to Advanced | Developed chatbot-oriented systems to understand user intent and generate relevant responses. |
 | Security-Oriented AI | Intermediate to Advanced | Applied machine learning concepts to phishing detection and safety-focused application ideas. |
 | Integration & Experimentation | Advanced | Continuously explores backend systems, scalable AI integration, and production-ready implementation patterns. |
@@ -85,7 +91,7 @@ A privacy-first and offline-first expense tracking product designed for fast ent
 | Impact | Demonstrates product design maturity and Android application thinking |
 | Repository | [View GitHub Profile](https://github.com/githubmofo) |
 
-FlowLedger stands out as a strong product-oriented build because it combines utility, thoughtful UX, and practical engineering. It represents the type of application that solves a real user problem while maintaining a polished portfolio presence.
+FlowLedger stands out as a strong product-oriented build because it combines utility, thoughtful UX, and practical engineering.
 
 </details>
 
@@ -105,7 +111,7 @@ A product-focused web application currently part of active development, built ar
 | Impact | Highlights growing strength in polished web product development |
 | Repository | [View GitHub Profile](https://github.com/githubmofo) |
 
-BrewBit strengthens the profile as a builder of user-facing digital products. It reflects attention to usability, interface quality, and steady iteration in active development work.
+BrewBit reflects attention to usability, interface quality, and steady iteration in active development work.
 
 </details>
 
@@ -125,7 +131,7 @@ A collaborative travel-focused project centered on improving the product experie
 | Impact | Shows collaboration skills and design-engineering balance |
 | Repository | [View GitHub Profile](https://github.com/githubmofo) |
 
-Traveloop adds a collaborative dimension to the portfolio and shows the ability to contribute meaningfully to a broader product vision. It also reinforces strength in frontend thinking and practical development workflows.
+Traveloop adds a collaborative dimension to the portfolio and reinforces frontend and product-thinking skills.
 
 </details>
 
@@ -145,7 +151,7 @@ A machine learning-based phishing detection platform designed to identify suspic
 | Impact | Demonstrates practical AI use in a meaningful security domain |
 | Repository | [Repository](https://github.com/githubmofo/cybersphere/tree/main) |
 
-CyberSphere is one of the clearest examples of combining AI/ML with practical impact. It gives the profile a stronger engineering identity in the intersection of machine learning and cybersecurity.
+CyberSphere is one of the clearest examples of combining AI/ML with practical impact.
 
 </details>
 
@@ -165,7 +171,7 @@ An Android application built collaboratively, focused on practical app developme
 | Impact | Reinforces mobile development strength in the portfolio |
 | Repository | [Repository](https://github.com/githubmofo/Vynix) |
 
-Vynix supports the mobile engineering side of the profile and demonstrates comfort with Android-based product development. It reflects applied development rather than purely conceptual work.
+Vynix supports the mobile engineering side of the profile and demonstrates comfort with Android-based product development.
 
 </details>
 
@@ -185,7 +191,7 @@ A machine learning chatbot project built to understand user intent and generate 
 | Impact | Strengthens the AI/ML depth of the portfolio |
 | Repository | [Repository](https://github.com/githubmofo/ML-Chatbot) |
 
-ML-Chatbot reflects practical experimentation with intelligent systems and user interaction. It helps position the profile as someone who can move beyond standard application development into AI-enabled product workflows.
+ML-Chatbot reflects practical experimentation with intelligent systems and user interaction.
 
 </details>
 
@@ -205,25 +211,9 @@ A personal finance project centered around expense tracking, usability, and prac
 | Impact | Adds depth to the portfolio in personal productivity software |
 | Repository | [Repository](https://github.com/githubmofo/SpendWise) |
 
-SpendWise reinforces the ability to build focused utility products with clear user value. It also complements the broader finance-product direction seen in FlowLedger and Vynix.
+SpendWise reinforces the ability to build focused utility products with clear user value.
 
 </details>
-
-***
-
-## Experience
-
-### AI Implementation Intern
-**Duration:** 3-Month Internship
-
-Worked on AI implementation and algorithm-oriented tasks in a practical internship environment, strengthening both technical execution and real-world engineering confidence.
-
-- Contributed to implementation work involving AI concepts and applied algorithm development.
-- Built problem-solving ability through active experimentation, refinement, and hands-on execution.
-- Gained practical exposure to engineering work beyond academic projects.
-- Improved technical adaptability by working on applied implementation challenges.
-
-`AI/ML` `Algorithms` `Implementation` `Python` `Problem Solving`
 
 ***
 
@@ -254,16 +244,6 @@ Worked on AI implementation and algorithm-oriented tasks in a practical internsh
 
 ***
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=githubmofo&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-
-</div>
-
-***
-
 ## Contribution Activity
 
 <div align="center">
@@ -278,7 +258,11 @@ Worked on AI implementation and algorithm-oriented tasks in a practical internsh
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/githubmofo/githubmofo/output/snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/githubmofo/githubmofo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/githubmofo/githubmofo/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/githubmofo/githubmofo/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
