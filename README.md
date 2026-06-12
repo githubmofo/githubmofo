@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:6a11cb&text=JENISH%20LAD&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:6a11cb&text=JENISH%20LAD&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=100&lines=Enterprise-Grade+Software+Engineering+Portfolio;Full-Stack+Developer+%7C+Android+Builder+%7C+AI%2FML+Explorer;Building+Secure%2C+Scalable%2C+Product-Focused+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=100&lines=Enterprise-Grade+Software+Engineering+Portfolio;Full-Stack+Developer+%7C+Android+Builder+%7C+AI%2FML+Explorer;Building+Scalable%2C+Practical%2C+Product-Focused+Applications" alt="Typing SVG" />
 
 <br/>
 
@@ -14,15 +14,15 @@
 <br/>
 
 <a href="https://jenish-lad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="www.linkedin.com/in/jenish-lad-2673a6378"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="ladjenish2905@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Now-581C87?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jenish-lad-2673a6378"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ladjenish2905@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Now-581C87?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/githubmofo"><img src="https://img.shields.io/badge/GitHub-View%20Profile-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=githubmof0&style=for-the-badge&color=7C3AED" />
-<img src="https://img.shields.io/github/followers/githubmof0?style=for-the-badge&color=4F46E5&labelColor=1f1f1f" />
-<img src="https://img.shields.io/github/stars/githubmof0?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6D28D9&labelColor=1f1f1f" />
+<img src="https://komarev.com/ghpvc/?username=githubmofo&style=for-the-badge&color=7C3AED" />
+<img src="https://img.shields.io/github/followers/githubmofo?style=for-the-badge&color=4F46E5&labelColor=1f1f1f" />
+<img src="https://img.shields.io/github/stars/githubmofo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6D28D9&labelColor=1f1f1f" />
 
 </div>
 
@@ -30,11 +30,11 @@
 
 ## About
 
-Software engineering student and product-focused builder with hands-on experience across full-stack web applications, Android development, AI-assisted systems, and security-oriented software. The current body of work reflects a strong preference for building production-minded products that combine clean architecture, practical user flows, modern UI systems, and measurable real-world utility.
+Computer Engineering student with a strong focus on software engineering, full-stack development, Android application development, and AI/ML-driven product building. The profile is centered around creating practical, polished, and scalable applications that solve real problems while maintaining clean user experience and strong technical structure.
 
-The engineering profile spans frontend and backend development, mobile application delivery, machine learning experimentation, cybersecurity problem-solving, and developer tooling. Projects such as DevVault, Traveloop, FlowLedger, Vynix, ML Chatbot, ChocoDream, and a Network Intrusion Detection System show a consistent pattern of designing systems that are functional, scalable, and portfolio-grade.
+The work across web platforms, Android projects, machine learning applications, and product-oriented builds reflects an engineering mindset shaped by implementation, iteration, and continuous learning. From finance and travel products to phishing detection and conversational AI, the portfolio demonstrates versatility across both software engineering and intelligent systems.
 
-**Open to** software engineering internships, AI/ML engineering roles, full-stack development opportunities, cybersecurity-focused product work, open-source collaboration, and high-impact student engineering communities.
+**Open to** software engineering internships, AI/ML engineering opportunities, full-stack development roles, collaborative product building, and impactful real-world project work.
 
 ***
 
@@ -43,16 +43,13 @@ The engineering profile spans frontend and backend development, mobile applicati
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,php,html,css,sql&theme=dark" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,c,cpp&theme=dark" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,supabase,mysql,sqlite,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,mysql&theme=dark" />
 
-### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode,androidstudio,postman,npm&theme=dark" />
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" />
 
 </div>
 
@@ -62,134 +59,153 @@ The engineering profile spans frontend and backend development, mobile applicati
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning Fundamentals | Advanced | Built ML-driven systems, intent-aware chatbot workflows, detection models, and practical prediction-oriented prototypes. |
-| AI Product Integration | Advanced | Focused on integrating AI into useful software systems, automation workflows, and production-inspired project experiences. |
-| NLP & Conversational Systems | Intermediate to Advanced | Developed chatbot-style systems for intent handling, response generation, and user-centric conversational flows. |
-| Cybersecurity Intelligence | Intermediate to Advanced | Applied AI/ML thinking to phishing detection, threat-oriented workflows, and security-focused application ideas. |
-| Data Analysis & Modeling | Advanced | Comfortable with preprocessing, pattern discovery, structured datasets, model experimentation, and analytical interpretation. |
-| LLM Experimentation & Automation | Intermediate to Advanced | Explores prompt engineering, model-assisted workflows, automation tooling, and practical AI-enhanced development patterns. |
+| Machine Learning Projects | Advanced | Built ML-based projects focused on practical implementation, user-facing workflows, and real-world problem solving. |
+| AI Product Thinking | Advanced | Uses AI/ML as part of product development rather than isolated experimentation, with emphasis on usability and application. |
+| NLP & Chatbot Systems | Intermediate to Advanced | Developed chatbot-oriented systems to understand user intent and generate relevant responses. |
+| Security-Oriented AI | Intermediate to Advanced | Applied machine learning concepts to phishing detection and safety-focused application ideas. |
+| Integration & Experimentation | Advanced | Continuously explores backend systems, scalable AI integration, and production-ready implementation patterns. |
 
 ***
 
 ## Featured Projects
 
 <details>
-<summary><strong>DevVault</strong> — Security-Focused Web Application</summary>
+<summary><strong>FlowLedger</strong> — Offline-First Expense Tracking Application</summary>
 
 <br/>
 
-A cybersecurity-oriented web platform engineered to reflect secure product design, practical architecture thinking, and modern full-stack delivery.
+A privacy-first and offline-first expense tracking product designed for fast entry, intelligent categorization, and a modern user experience focused on practical everyday finance management.
 
 | Attribute | Details |
 |---|---|
-| Stack | JavaScript, Node.js, Express, frontend web technologies, database integration |
-| Scale | Portfolio-grade security product with multi-module architecture |
-| Performance | Optimized for responsive user flows and practical web interaction patterns |
-| Security | Security-first development mindset, protected workflows, structured access patterns |
-| Impact | Demonstrates product engineering maturity and cybersecurity domain alignment |
-| Repository | [View Repository](https://github.com/githubmof0) |
+| Stack | Java, Android development workflows, local-first product design |
+| Scale | Personal finance product with real-world mobile usability focus |
+| Performance | Lightweight and streamlined experience for quick expense entry |
+| Security | Privacy-first and offline-first usage approach |
+| Impact | Demonstrates product design maturity and Android application thinking |
+| Repository | [View GitHub Profile](https://github.com/githubmofo) |
 
-DevVault represents the intersection of secure engineering, usability, and product thinking. It is positioned as a serious showcase project for building trust-centered software experiences with a developer mindset focused on scalability and maintainability.
+FlowLedger stands out as a strong product-oriented build because it combines utility, thoughtful UX, and practical engineering. It represents the type of application that solves a real user problem while maintaining a polished portfolio presence.
 
 </details>
 
 <details>
-<summary><strong>Traveloop</strong> — Travel Planning Application with 3D Visualization</summary>
+<summary><strong>BrewBit</strong> — Modern Web Application</summary>
 
 <br/>
 
-A modern travel planning product designed around interactive experiences, clean UI systems, and immersive planning workflows including 3D globe-oriented visualization.
+A product-focused web application currently part of active development, built around clean UI, practical user flows, and a modern browser-based experience.
 
 | Attribute | Details |
 |---|---|
-| Stack | JavaScript, web technologies, UI/UX tooling, interactive visualization workflows |
-| Scale | Multi-feature travel platform with product-centric architecture |
-| Performance | Built for smooth interaction flows and user-friendly planning experiences |
-| Security | Structured application design with clean data handling patterns |
-| Impact | Highlights design-engineering balance and advanced frontend creativity |
-| Repository | [View Repository](https://github.com/githubmof0) |
+| Stack | JavaScript, HTML, CSS, web application workflows |
+| Scale | Active product build with interface-first implementation focus |
+| Performance | Designed for smooth interaction and modern front-facing usability |
+| Security | Structured application design with maintainable implementation patterns |
+| Impact | Highlights growing strength in polished web product development |
+| Repository | [View GitHub Profile](https://github.com/githubmofo) |
 
-Traveloop reflects strong product imagination backed by implementation skill. It shows the ability to combine engineering, interaction design, and experiential interfaces into a polished application concept.
+BrewBit strengthens the profile as a builder of user-facing digital products. It reflects attention to usability, interface quality, and steady iteration in active development work.
 
 </details>
 
 <details>
-<summary><strong>Network Intrusion Detection System</strong> — Offline Log Analyzer</summary>
+<summary><strong>Traveloop</strong> — Travel Planning Collaboration</summary>
 
 <br/>
 
-A cybersecurity-focused system built to analyze logs offline and support threat-oriented inspection, anomaly awareness, and practical defensive workflows.
+A collaborative travel-focused project centered on improving the product experience, development flow, and practical travel planning interactions.
 
 | Attribute | Details |
 |---|---|
-| Stack | Python, data processing, security analysis workflows, system logic |
-| Scale | Security analysis project with specialized threat-detection orientation |
-| Performance | Structured for efficient offline inspection and focused log evaluation |
-| Security | Strong cybersecurity alignment through anomaly and intrusion analysis concepts |
-| Impact | Reinforces domain depth in network security and defensive engineering |
-| Repository | [View Repository](https://github.com/githubmof0) |
+| Stack | JavaScript, web technologies, collaborative development workflows |
+| Scale | Multi-feature product concept with user-experience orientation |
+| Performance | Built around usability and clear experience-driven flow |
+| Security | Organized development with structured application logic |
+| Impact | Shows collaboration skills and design-engineering balance |
+| Repository | [View GitHub Profile](https://github.com/githubmofo) |
 
-This project strengthens the portfolio from a cybersecurity perspective by demonstrating technical curiosity beyond standard CRUD applications. It signals an engineering profile capable of solving specialized and security-relevant problems.
+Traveloop adds a collaborative dimension to the portfolio and shows the ability to contribute meaningfully to a broader product vision. It also reinforces strength in frontend thinking and practical development workflows.
 
 </details>
 
 <details>
-<summary><strong>FlowLedger</strong> — Financial Expense Tracking Android App</summary>
+<summary><strong>CyberSphere</strong> — Phishing Detection Platform</summary>
 
 <br/>
 
-An offline-first Android application designed for efficient expense management, analytics-driven insights, and a premium user experience centered around privacy and fast entry.
+A machine learning-based phishing detection platform designed to identify suspicious websites and improve online safety through applied AI problem solving.
 
 | Attribute | Details |
 |---|---|
-| Stack | Java, Android, SQLite or local storage workflows, analytics-driven UI |
-| Scale | Mobile product with practical real-world finance use case |
-| Performance | Optimized for lightweight local usage and streamlined tracking flows |
-| Security | Privacy-conscious offline-first design pattern |
-| Impact | Demonstrates Android engineering capability and product usability focus |
-| Repository | [View Repository](https://github.com/githubmof0) |
+| Stack | Python, machine learning workflows, web deployment concepts |
+| Scale | Security-oriented AI application with focused detection objective |
+| Performance | Built to support relevant classification and suspicious-pattern identification |
+| Security | Strong alignment with cybersecurity and user safety goals |
+| Impact | Demonstrates practical AI use in a meaningful security domain |
+| Repository | [Repository](https://github.com/githubmofo/cybersphere/tree/main) |
 
-FlowLedger is a strong example of mobile product execution. It shows the ability to design user-centric Android experiences that are practical, efficient, and polished for real usage scenarios.
+CyberSphere is one of the clearest examples of combining AI/ML with practical impact. It gives the profile a stronger engineering identity in the intersection of machine learning and cybersecurity.
 
 </details>
 
 <details>
-<summary><strong>ML Chatbot</strong> — Intent-Aware Conversational System</summary>
+<summary><strong>Vynix</strong> — Android Application Project</summary>
 
 <br/>
 
-A machine learning-based chatbot project developed to interpret user intent, generate relevant responses, and explore practical conversational AI workflows.
+An Android application built collaboratively, focused on practical app development and finance-oriented workflows with hands-on mobile implementation experience.
 
 | Attribute | Details |
 |---|---|
-| Stack | Python, machine learning workflows, NLP concepts, conversational logic |
-| Scale | AI-driven prototype with extensible assistant architecture |
-| Performance | Structured for relevant response flow and intent handling efficiency |
-| Security | Controlled logic-driven interaction patterns |
-| Impact | Highlights applied AI skills and experimentation with intelligent systems |
-| Repository | [View Repository](https://github.com/githubmof0) |
+| Stack | Java, Android Studio, application development workflows |
+| Scale | Collaborative mobile application with real-use-case orientation |
+| Performance | Built around practical app structure and smooth usage flow |
+| Security | Structured app logic and controlled workflow handling |
+| Impact | Reinforces mobile development strength in the portfolio |
+| Repository | [Repository](https://github.com/githubmofo/Vynix) |
 
-The project showcases applied AI beyond theory and demonstrates the ability to translate machine learning ideas into usable interactive software. It strengthens the AI/ML portion of the profile with clear implementation evidence.
+Vynix supports the mobile engineering side of the profile and demonstrates comfort with Android-based product development. It reflects applied development rather than purely conceptual work.
 
 </details>
 
 <details>
-<summary><strong>ChocoDream</strong> — E-Commerce Web Platform</summary>
+<summary><strong>ML-Chatbot</strong> — Conversational AI Project</summary>
 
 <br/>
 
-A full-stack e-commerce application built to demonstrate practical product development, transactional flows, structured data management, and customer-facing web experiences.
+A machine learning chatbot project built to understand user intent and generate relevant conversational responses through applied AI workflows.
 
 | Attribute | Details |
 |---|---|
-| Stack | Full-stack web technologies, frontend UI, backend logic, database connectivity |
-| Scale | End-to-end commerce platform with multiple integrated workflows |
-| Performance | Designed for intuitive navigation and clean purchase flow experiences |
-| Security | Structured user and data handling patterns suitable for web commerce learning |
-| Impact | Validates full-stack capability through a complete business-oriented use case |
-| Repository | [View Repository](https://github.com/githubmof0) |
+| Stack | Python, machine learning logic, conversational system workflows |
+| Scale | AI project with user-facing interaction focus |
+| Performance | Designed for intent recognition and relevant conversational response generation |
+| Security | Logic-controlled conversational handling |
+| Impact | Strengthens the AI/ML depth of the portfolio |
+| Repository | [Repository](https://github.com/githubmofo/ML-Chatbot) |
 
-ChocoDream adds breadth to the portfolio by showing comfort with building complete digital products around business logic, user experience, and integrated backend systems.
+ML-Chatbot reflects practical experimentation with intelligent systems and user interaction. It helps position the profile as someone who can move beyond standard application development into AI-enabled product workflows.
+
+</details>
+
+<details>
+<summary><strong>SpendWise</strong> — Personal Finance Tracking Project</summary>
+
+<br/>
+
+A personal finance project centered around expense tracking, usability, and practical application design for everyday use cases.
+
+| Attribute | Details |
+|---|---|
+| Stack | Application-focused development workflow, finance use-case implementation |
+| Scale | Utility-driven project with usability-centered structure |
+| Performance | Built around clarity, tracking efficiency, and simple user interaction |
+| Security | Practical data handling mindset for finance-oriented application use |
+| Impact | Adds depth to the portfolio in personal productivity software |
+| Repository | [Repository](https://github.com/githubmofo/SpendWise) |
+
+SpendWise reinforces the ability to build focused utility products with clear user value. It also complements the broader finance-product direction seen in FlowLedger and Vynix.
 
 </details>
 
@@ -197,17 +213,17 @@ ChocoDream adds breadth to the portfolio by showing comfort with building comple
 
 ## Experience
 
-### AI Implementation Intern — Internship Experience
-**Duration:** 3 Months
+### AI Implementation Intern
+**Duration:** 3-Month Internship
 
-Worked on AI implementation and algorithm-oriented development in a hands-on internship setting, contributing to practical engineering tasks and real-world technical exploration.
+Worked on AI implementation and algorithm-oriented tasks in a practical internship environment, strengthening both technical execution and real-world engineering confidence.
 
-- Contributed to AI-focused implementation tasks and algorithm development workflows.
-- Worked on translating technical ideas into usable system behavior and functional outputs.
-- Strengthened problem-solving ability through applied experimentation, iteration, and implementation.
-- Gained exposure to product-minded execution beyond purely academic development.
+- Contributed to implementation work involving AI concepts and applied algorithm development.
+- Built problem-solving ability through active experimentation, refinement, and hands-on execution.
+- Gained practical exposure to engineering work beyond academic projects.
+- Improved technical adaptability by working on applied implementation challenges.
 
-`AI Implementation` `Algorithms` `Python` `Problem Solving` `Applied Engineering`
+`AI/ML` `Algorithms` `Implementation` `Python` `Problem Solving`
 
 ***
 
@@ -217,39 +233,10 @@ Worked on AI implementation and algorithm-oriented development in a hands-on int
 
 | Recognition | Details |
 |---|---|
-| Multi-Domain Builder | Built projects across cybersecurity, AI/ML, Android, web engineering, and product design workflows. |
-| Product-Oriented Engineer | Consistently develops portfolio projects with practical use cases, polished UX, and implementation depth. |
-| Strong Technical Versatility | Demonstrates hands-on ability across frontend, backend, databases, mobile, and machine learning systems. |
-| Continuous Learner | Actively explores advanced engineering topics including NIDS, LLM workflows, automation, and scalable architecture. |
-
-</div>
-
-***
-
-## Certifications
-
-### AWS
-<img src="https://img.shields.io/badge/AWS-Learning%20Track-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Technology%20Track-4F46E5?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Certified%20Learner-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-Networking%20Track-4338CA?style=for-the-badge&logo=cisco&logoColor=white" />
-
-***
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Programming%20Challenges-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-312E81?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+| Multi-Disciplinary Builder | Built projects across web, Android, AI/ML, and security-focused software domains. |
+| Product-Driven Engineer | Focuses on building applications that are practical, polished, and meaningful to use. |
+| Strong Project Orientation | Maintains a portfolio centered on real-world builds instead of isolated academic exercises. |
+| Continuous Learner | Actively learning scalable backend systems, AI integration, and production-ready engineering patterns. |
 
 </div>
 
@@ -259,9 +246,9 @@ Worked on AI implementation and algorithm-oriented development in a hands-on int
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubmof0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=E5E7EB" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=githubmof0&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=C4B5FD" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubmof0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubmofo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=E5E7EB" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=githubmofo&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=C4B5FD" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubmofo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" />
 
 </div>
 
@@ -271,7 +258,7 @@ Worked on AI implementation and algorithm-oriented development in a hands-on int
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=githubmof0&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=githubmofo&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 
 </div>
 
@@ -281,7 +268,7 @@ Worked on AI implementation and algorithm-oriented development in a hands-on int
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=githubmof0&bg_color=0d1117&color=c4b5fd&line=a855f7&point=7c3aed&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=githubmofo&bg_color=0d1117&color=c4b5fd&line=a855f7&point=7c3aed&area=true&hide_border=true" />
 
 </div>
 
@@ -291,7 +278,7 @@ Worked on AI implementation and algorithm-oriented development in a hands-on int
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/githubmof0/githubmof0/output/snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/githubmofo/githubmofo/output/snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -301,26 +288,25 @@ Worked on AI implementation and algorithm-oriented development in a hands-on int
 
 ```yaml
 Learning:
-  - Advanced cybersecurity concepts and intrusion detection workflows
-  - AI/ML integration patterns for real-world software systems
-  - Scalable backend architecture and production-ready application design
+  - Scalable backend systems
+  - Production-ready AI integration
+  - Advanced software engineering workflows
 
 Building:
-  - DevVault security-focused web platform
-  - Traveloop travel planning application with immersive interaction design
-  - Portfolio-grade systems that combine engineering quality with product polish
+  - Full-stack web applications
+  - Android applications
+  - AI/ML-based solutions
 
 Exploring:
-  - Local LLM deployment and automation workflows
-  - Advanced UI effects, 3D interfaces, and modern frontend experiences
-  - Data-driven systems, analytics, and intelligent software tooling
+  - Practical product ideas
+  - Clean UI and useful feature design
+  - Real-world software implementation
 
 Open To:
   - Software engineering internships
   - Full-stack development opportunities
-  - AI/ML engineering collaboration
-  - Cybersecurity product development
-  - Open-source contributions and technical communities
+  - AI/ML collaboration
+  - Innovative project building
 ```
 
 ***
@@ -329,10 +315,10 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:jenishlad.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-jenishlad.dev%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/jenish-lad"><img src="https://img.shields.io/badge/LinkedIn-Jenish%20Lad-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/githubmof0"><img src="https://img.shields.io/badge/GitHub-githubmof0-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-Engineering%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:ladjenish2905@gmail.com"><img src="https://img.shields.io/badge/Gmail-ladjenish2905%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jenish-lad-2673a6378"><img src="https://img.shields.io/badge/LinkedIn-Jenish%20Lad-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/githubmofo"><img src="https://img.shields.io/badge/GitHub-githubmofo-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://jenish-lad-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
@@ -340,7 +326,7 @@ Open To:
 
 <div align="center">
 
-Engineering products with security, intelligence, and scalable thinking at the core.
+Engineering practical products with clean execution, thoughtful design, and strong implementation focus.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:6a11cb" />
 
