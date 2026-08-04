@@ -208,12 +208,6 @@ Sentinel represents the next step in combining data science, machine learning, a
 
 ***
 
-## GitHub Activity
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Jenish Lad's GitHub activity metrics" width="100%" />
-</div>
-
 ***
 
 ## Contribution Snake
