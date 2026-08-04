@@ -211,23 +211,7 @@ Sentinel represents the next step in combining data science, machine learning, a
 ## GitHub Activity
 
 <div align="center">
-
-Focused on building practical projects across data science, AI/ML, and full-stack development.
-
-<br/><br/>
-
-<a href="https://github.com/githubmofo?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20My%20Projects-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Projects" />
-</a>
-
-<a href="https://github.com/githubmofo?tab=repositories&q=&type=source&language=python">
-  <img src="https://img.shields.io/badge/Explore-Python%20Projects-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Explore Python Projects" />
-</a>
-
-<a href="https://github.com/githubmofo?tab=repositories&q=&type=source&language=javascript">
-  <img src="https://img.shields.io/badge/Explore-Full--Stack%20Projects-6D28D9?style=for-the-badge&logo=javascript&logoColor=white" alt="Explore Full Stack Projects" />
-</a>
-
+  <img src="./github-metrics.svg" alt="Jenish Lad's GitHub activity metrics" width="100%" />
 </div>
 
 ***
