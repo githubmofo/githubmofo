@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:6a11cb&text=JENISH%20LAD&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Android%20Builder%20%7C%20AI%2FML%20Explorer&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:6a11cb&text=JENISH%20LAD&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Passionate%20about%20Data%20Science%20%7C%20Full-Stack%20Development%20%7C%20AI%2FML&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Enterprise-Grade+Software+Engineering+Portfolio;Building+Scalable+and+Practical+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Data+Science+%7C+AI%2FML+%7C+Full-Stack+Engineering;Building+Scalable+and+Intelligent+Applications" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-4F46E5?style=flat-square&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/Semester-7th-7C3AED?style=flat-square&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-5B21B6?style=flat-square&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI%2FML-5B21B6?style=flat-square&logo=target&logoColor=white" />
 
 <br/>
 
@@ -33,14 +33,14 @@
 
 ## About
 
-Computer Engineering student with a strong focus on software engineering, full-stack development, Android application development, and AI/ML-driven product building. I enjoy creating practical, polished, and scalable applications that solve real-world problems with clean UI, useful features, and strong technical structure.
+Hi, I'm **Jenish Lad** — a final-year B.Tech Computer Engineering student at Indus University, Ahmedabad. I build practical software across data science, AI/ML, and full-stack development, with a focus on clean architecture, useful features, and real-world problem solving.
 
-My work across web platforms, Android projects, machine learning applications, and product-oriented builds reflects an implementation-first mindset shaped by continuous learning, iteration, and experimentation. From finance and travel products to phishing detection and conversational AI, my portfolio demonstrates versatility across both software engineering and intelligent systems.
+I am currently seeking internships primarily in **Data Science** and **AI/ML**, while also bringing solid full-stack development experience across web and product-oriented builds. My work spans machine learning applications, intelligent systems, and polished end-to-end products — from finance and conversational AI to security-focused detection platforms.
 
-- Open to software engineering internships
-- Open to full-stack development opportunities
-- Open to AI/ML collaboration
-- Open to impactful product-focused project work
+- Actively looking for Data Science internships
+- Open to AI/ML roles and research-oriented collaboration
+- Strong foundation in full-stack web development
+- Interested in impactful, product-focused project work
 
 ***
 
@@ -50,6 +50,9 @@ My work across web platforms, Android projects, machine learning applications, a
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,c,cpp&theme=dark" />
+
+### Data Science & AI/ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas&theme=dark" />
 
 ### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,mysql&theme=dark" />
@@ -76,7 +79,7 @@ A privacy-first and offline-first expense tracking product designed for fast ent
 | Scale | Personal finance product with real-world mobile usability focus |
 | Performance | Lightweight and streamlined experience for quick expense entry |
 | Security | Privacy-first and offline-first usage approach |
-| Impact | Demonstrates product design maturity and Android application thinking |
+| Impact | Demonstrates product design maturity and practical application thinking |
 | Repository | [View GitHub Profile](https://github.com/githubmofo) |
 
 FlowLedger stands out as a strong product-oriented build because it combines utility, thoughtful UX, and practical engineering.
@@ -100,46 +103,6 @@ A product-focused web application currently part of active development, built ar
 | Repository | [View GitHub Profile](https://github.com/githubmofo) |
 
 BrewBit reflects attention to usability, interface quality, and steady iteration in active development work.
-
-</details>
-
-<details>
-<summary><strong>Traveloop</strong> — Travel Planning Collaboration</summary>
-
-<br/>
-
-A collaborative travel-focused project centered on improving the product experience, development flow, and practical travel planning interactions.
-
-| Attribute | Details |
-|---|---|
-| Stack | JavaScript, web technologies, collaborative development workflows |
-| Scale | Multi-feature product concept with user-experience orientation |
-| Performance | Built around usability and clear experience-driven flow |
-| Security | Organized development with structured application logic |
-| Impact | Shows collaboration skills and design-engineering balance |
-| Repository | [View GitHub Profile](https://github.com/githubmofo) |
-
-Traveloop adds a collaborative dimension to the portfolio and reinforces frontend and product-thinking skills.
-
-</details>
-
-<details>
-<summary><strong>CyberSphere</strong> — Phishing Detection Platform</summary>
-
-<br/>
-
-A machine learning-based phishing detection platform designed to identify suspicious websites and improve online safety through applied AI problem solving.
-
-| Attribute | Details |
-|---|---|
-| Stack | Python, machine learning workflows, web deployment concepts |
-| Scale | Security-oriented AI application with focused detection objective |
-| Performance | Built to support relevant classification and suspicious-pattern identification |
-| Security | Strong alignment with cybersecurity and user safety goals |
-| Impact | Demonstrates practical AI use in a meaningful security domain |
-| Repository | [Repository](https://github.com/githubmofo/cybersphere/tree/main) |
-
-CyberSphere is one of the clearest examples of combining AI/ML with practical impact.
 
 </details>
 
@@ -184,6 +147,26 @@ ML-Chatbot reflects practical experimentation with intelligent systems and user 
 </details>
 
 <details>
+<summary><strong>ChocoDream</strong> — Product-Focused Web Experience</summary>
+
+<br/>
+
+A polished web product experience centered on clean design, smooth user flows, and practical e-commerce-style interaction patterns for a brand-driven digital presence.
+
+| Attribute | Details |
+|---|---|
+| Stack | JavaScript, HTML, CSS, modern web development workflows |
+| Scale | Brand-oriented web build with UI/UX and product presentation focus |
+| Performance | Optimized for smooth browsing and clear conversion-oriented flows |
+| Security | Structured front-end patterns with maintainable component design |
+| Impact | Shows strength in interface quality and product-facing web development |
+| Repository | [View GitHub Profile](https://github.com/githubmofo) |
+
+ChocoDream highlights the ability to ship visually refined, user-centric web experiences.
+
+</details>
+
+<details>
 <summary><strong>SpendWise</strong> — Personal Finance Tracking Project</summary>
 
 <br/>
@@ -203,40 +186,47 @@ SpendWise reinforces the ability to build focused utility products with clear us
 
 </details>
 
-***
+<details open>
+<summary><strong>Sentinel</strong> — Currently In Progress</summary>
 
-## Achievements
+<br/>
 
-<div align="center">
+An active build focused on intelligent monitoring, threat-aware analysis, and applied AI/ML for security-oriented problem solving. Sentinel is the current work-in-progress project expanding the portfolio deeper into data-driven detection and defensive systems.
 
-| Recognition | Details |
+| Attribute | Details |
 |---|---|
-| Multi-Disciplinary Builder | Built projects across web, Android, AI/ML, and security-focused software domains. |
-| Product-Driven Engineer | Focuses on building applications that are practical, polished, and meaningful to use. |
-| Strong Project Orientation | Maintains a portfolio centered on real-world builds instead of isolated academic exercises. |
-| Continuous Learner | Actively learning scalable backend systems, AI integration, and production-ready engineering patterns. |
+| Stack | Python, data science & ML workflows, security analytics concepts |
+| Scale | Work-in-progress platform with detection and analysis focus |
+| Status | Actively under development |
+| Direction | Real-world security intelligence and applied ML |
+| Impact | Bridges AI/ML skills with cybersecurity problem domains |
+| Repository | Coming soon on [GitHub](https://github.com/githubmofo) |
 
-</div>
+Sentinel represents the next step in combining data science, machine learning, and practical security impact.
 
-***
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubmofo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=E5E7EB" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=githubmofo&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=C4B5FD" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubmofo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" />
-
-</div>
+</details>
 
 ***
 
-## Contribution Activity
+## GitHub Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=githubmofo&bg_color=0d1117&color=c4b5fd&line=a855f7&point=7c3aed&area=true&hide_border=true" />
+Focused on building practical projects across data science, AI/ML, and full-stack development.
+
+<br/><br/>
+
+<a href="https://github.com/githubmofo?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20My%20Projects-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Projects" />
+</a>
+
+<a href="https://github.com/githubmofo?tab=repositories&q=&type=source&language=python">
+  <img src="https://img.shields.io/badge/Explore-Python%20Projects-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Explore Python Projects" />
+</a>
+
+<a href="https://github.com/githubmofo?tab=repositories&q=&type=source&language=javascript">
+  <img src="https://img.shields.io/badge/Explore-Full--Stack%20Projects-6D28D9?style=for-the-badge&logo=javascript&logoColor=white" alt="Explore Full Stack Projects" />
+</a>
 
 </div>
 
@@ -260,24 +250,24 @@ SpendWise reinforces the ability to build focused utility products with clear us
 
 ```yaml
 Learning:
-  - Scalable backend systems
+  - Advanced data science & ML pipelines
   - Production-ready AI integration
-  - Advanced software engineering workflows
+  - Scalable backend systems
 
 Building:
+  - Sentinel (active — security + AI/ML)
   - Full-stack web applications
-  - Android applications
-  - AI/ML-based solutions
+  - Data-driven intelligent products
 
 Exploring:
-  - Practical product ideas
-  - Clean UI and useful feature design
+  - Feature engineering & model evaluation
+  - Clean UI with useful feature design
   - Real-world software implementation
 
 Open To:
-  - Software engineering internships
+  - Data Science internships
+  - AI/ML collaboration & roles
   - Full-stack development opportunities
-  - AI/ML collaboration
   - Innovative project building
 ```
 
@@ -298,7 +288,7 @@ Open To:
 
 <div align="center">
 
-Engineering practical products with clean execution, thoughtful design, and strong implementation focus.
+Building intelligent products with data science, clean engineering, and practical full-stack execution.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:6a11cb" />
 
