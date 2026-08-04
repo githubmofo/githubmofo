@@ -67,140 +67,124 @@ I am currently seeking internships primarily in **Data Science** and **AI/ML**, 
 ## Featured Projects
 
 <details>
-<summary><strong>FlowLedger</strong> — Offline-First Expense Tracking Application</summary>
+<summary><strong>FlowLedger</strong> — Privacy-First Android Finance Tracker</summary>
 
 <br/>
 
-A privacy-first and offline-first expense tracking product designed for fast entry, intelligent categorization, and a modern user experience focused on practical everyday finance management.
+A native Android personal-finance tracker for recording expenses and income, setting budget limits, managing loans/EMIs, and visualizing spending. FlowLedger is designed around local-only storage, quick expense logging, and a premium mobile user experience.
 
 | Attribute | Details |
 |---|---|
-| Stack | Java, Android development workflows, local-first product design |
-| Scale | Personal finance product with real-world mobile usability focus |
-| Performance | Lightweight and streamlined experience for quick expense entry |
-| Security | Privacy-first and offline-first usage approach |
-| Impact | Demonstrates product design maturity and practical application thinking |
-| Repository | [View GitHub Profile](https://github.com/githubmofo) |
-
-FlowLedger stands out as a strong product-oriented build because it combines utility, thoughtful UX, and practical engineering.
+| Stack | Java, Android Studio, Gradle, Room Database, Android SDK |
+| Core Features | Expense and income tracking, budget alerts, EMI/loan tracking, filtering, search, payment-method tracking, spending insights |
+| Data & Security | Local-only data storage, Room parameterized queries, `allowBackup="false"` to reduce backup extraction risk |
+| UI/UX | Glassmorphism-inspired interface, liquid navigation, dark-mode support, chart-based insights |
+| Build | Android APK available in the repository |
+| Repository | [View FlowLedger](https://github.com/githubmofo/FlowLedger) |
 
 </details>
 
 <details>
-<summary><strong>BrewBit</strong> — Modern Web Application</summary>
+<summary><strong>Brewbit POS</strong> — Full-Stack Smart Cafe Management System</summary>
 
 <br/>
 
-A product-focused web application currently part of active development, built around clean UI, practical user flows, and a modern browser-based experience.
+A full-stack point-of-sale ecosystem for cafes and restaurants. Brewbit POS combines a staff management dashboard with customer-oriented ordering flows, real-time kitchen updates, reporting, inventory control, and table management.
 
 | Attribute | Details |
 |---|---|
-| Stack | JavaScript, HTML, CSS, web application workflows |
-| Scale | Active product build with interface-first implementation focus |
-| Performance | Designed for smooth interaction and modern front-facing usability |
-| Security | Structured application design with maintainable implementation patterns |
-| Impact | Highlights growing strength in polished web product development |
-| Repository | [View GitHub Profile](https://github.com/githubmofo) |
-
-BrewBit reflects attention to usability, interface quality, and steady iteration in active development work.
+| Stack | Next.js, TypeScript, Turborepo, tRPC, Drizzle ORM, PostgreSQL, Zod, Docker |
+| Architecture | Monorepo structure with shared UI, configuration, validation, API, and database layers |
+| Core Features | POS checkout, floor-plan management, kitchen display system, inventory management, reporting, order workflows, session tracking |
+| Security | JWT authentication, bcrypt password hashing, RBAC middleware, parameterized ORM queries, authorization validation |
+| Deployment | [Live Demo](https://brewbit-pos.vercel.app) |
+| Repository | [View Brewbit POS](https://github.com/githubmofo/Brewbit-POS) |
 
 </details>
 
 <details>
-<summary><strong>Vynix</strong> — Android Application Project</summary>
+<summary><strong>Vynix</strong> — Finance-Oriented Android Application</summary>
 
 <br/>
 
-An Android application built collaboratively, focused on practical app development and finance-oriented workflows with hands-on mobile implementation experience.
+A collaborative Android application project focused on building a practical mobile experience for finance-oriented workflows and everyday user interaction.
 
 | Attribute | Details |
 |---|---|
-| Stack | Java, Android Studio, application development workflows |
-| Scale | Collaborative mobile application with real-use-case orientation |
-| Performance | Built around practical app structure and smooth usage flow |
-| Security | Structured app logic and controlled workflow handling |
-| Impact | Reinforces mobile development strength in the portfolio |
-| Repository | [Repository](https://github.com/githubmofo/Vynix) |
-
-Vynix supports the mobile engineering side of the profile and demonstrates comfort with Android-based product development.
+| Stack | Java, Android Studio, Android development tools |
+| Focus | Mobile application architecture, practical finance-related user workflows, and collaborative development |
+| Experience | Android UI implementation, structured app logic, and usability-focused mobile development |
+| Status | Public project repository |
+| Repository | [View Vynix](https://github.com/githubmofo/Vynix) |
 
 </details>
 
 <details>
-<summary><strong>ML-Chatbot</strong> — Conversational AI Project</summary>
+<summary><strong>ML-Chatbot</strong> — AI Data Assistant for ML Workflows</summary>
 
 <br/>
 
-A machine learning chatbot project built to understand user intent and generate relevant conversational responses through applied AI workflows.
+An interactive desktop AI data assistant that lets users upload CSV datasets, train machine-learning models, generate predictions, visualize results, and receive optional explanations through a conversational interface.
 
 | Attribute | Details |
 |---|---|
-| Stack | Python, machine learning logic, conversational system workflows |
-| Scale | AI project with user-facing interaction focus |
-| Performance | Designed for intent recognition and relevant conversational response generation |
-| Security | Logic-controlled conversational handling |
-| Impact | Strengthens the AI/ML depth of the portfolio |
-| Repository | [Repository](https://github.com/githubmofo/ML-Chatbot) |
-
-ML-Chatbot reflects practical experimentation with intelligent systems and user interaction.
+| Stack | Python, Tkinter, scikit-learn, Pandas, data visualization libraries, Ollama |
+| ML Capabilities | Classification and regression workflows with Random Forest, Decision Tree, Gradient Boosting, Extra Trees, AdaBoost, KNN, Logistic/Ridge, and SVM |
+| Core Features | CSV upload, target detection, feature selection, missing-value handling, model selection, predictions, feature importance, analytics dashboard |
+| AI Integration | Optional local LLM explanations through Ollama and Qwen |
+| Metrics | Supports accuracy, RMSE, R-squared, and model-specific prediction insights |
+| Repository | [View ML-Chatbot](https://github.com/githubmofo/ML-Chatbot) |
 
 </details>
 
 <details>
-<summary><strong>ChocoDream</strong> — Product-Focused Web Experience</summary>
+<summary><strong>Chocodream</strong> — Product-Focused Web Experience</summary>
 
 <br/>
 
-A polished web product experience centered on clean design, smooth user flows, and practical e-commerce-style interaction patterns for a brand-driven digital presence.
+A web project focused on presenting a polished, brand-oriented digital experience with an emphasis on modern interface design, clear product discovery, and user-friendly browsing flows.
 
 | Attribute | Details |
 |---|---|
-| Stack | JavaScript, HTML, CSS, modern web development workflows |
-| Scale | Brand-oriented web build with UI/UX and product presentation focus |
-| Performance | Optimized for smooth browsing and clear conversion-oriented flows |
-| Security | Structured front-end patterns with maintainable component design |
-| Impact | Shows strength in interface quality and product-facing web development |
-| Repository | [View GitHub Profile](https://github.com/githubmofo) |
-
-ChocoDream highlights the ability to ship visually refined, user-centric web experiences.
+| Category | Product and brand-focused web application |
+| Focus | UI/UX design, responsive layouts, product presentation, and user interaction |
+| Development | Frontend-oriented web development workflow |
+| Status | Public project repository |
+| Repository | [View Chocodream](https://github.com/githubmofo/Chocodream) |
 
 </details>
 
 <details>
-<summary><strong>SpendWise</strong> — Personal Finance Tracking Project</summary>
+<summary><strong>SpendWise</strong> — Personal Finance Management Project</summary>
 
 <br/>
 
-A personal finance project centered around expense tracking, usability, and practical application design for everyday use cases.
+A finance-focused project built around tracking expenses, improving spending visibility, and creating a simple, practical experience for everyday personal-finance management.
 
 | Attribute | Details |
 |---|---|
-| Stack | Application-focused development workflow, finance use-case implementation |
-| Scale | Utility-driven project with usability-centered structure |
-| Performance | Built around clarity, tracking efficiency, and simple user interaction |
-| Security | Practical data handling mindset for finance-oriented application use |
-| Impact | Adds depth to the portfolio in personal productivity software |
-| Repository | [Repository](https://github.com/githubmofo/SpendWise) |
-
-SpendWise reinforces the ability to build focused utility products with clear user value.
+| Category | Personal finance and expense-management application |
+| Focus | Expense tracking, usability, financial organization, and practical product design |
+| Development | Application-focused development with a user-first utility mindset |
+| Status | Public project repository |
+| Repository | [View SpendWise](https://github.com/githubmofo/SpendWise) |
 
 </details>
 
 <details open>
-<summary><strong>Sentinel</strong> — Currently In Progress</summary>
+<summary><strong>Sentinel</strong> — AI/ML Security Platform <em>(In Progress)</em></summary>
 
 <br/>
 
-An active build focused on intelligent monitoring, threat-aware analysis, and applied AI/ML for security-oriented problem solving. Sentinel is the current work-in-progress project expanding the portfolio deeper into data-driven detection and defensive systems.
+An active project focused on intelligent threat monitoring and security-oriented analysis. Sentinel combines your interest in cybersecurity with data science and AI/ML-driven detection workflows.
 
 | Attribute | Details |
 |---|---|
-| Stack | Python, data science & ML workflows, security analytics concepts |
-| Scale | Work-in-progress platform with detection and analysis focus |
+| Stack | Python, data science workflows, machine learning, security analytics |
+| Focus | Threat-aware analysis, suspicious-pattern detection, and intelligent monitoring |
 | Status | Actively under development |
-| Direction | Real-world security intelligence and applied ML |
-| Impact | Bridges AI/ML skills with cybersecurity problem domains |
-| Repository | Coming soon on [GitHub](https://github.com/githubmofo) |
+| Goal | Apply AI/ML techniques to real-world cybersecurity challenges |
+| Repository | Coming soon on [GitHub](https://github.com/PunyaPatel/Sentinel) |
 
 Sentinel represents the next step in combining data science, machine learning, and practical security impact.
 
